@@ -1,0 +1,14 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "https://nrdqmfynvpnqyimpldln.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5yZHFtZnludnBucXlpbXBsZGxuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE0Nzc2MzYsImV4cCI6MjA4NzA1MzYzNn0.h8745ovrzVNpO5SzIEjGrkU_D33291HDlF4QheqGs5o",
+    "SUPABASE_SERVICE_ROLE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5yZHFtZnludnBucXlpbXBsZGxuIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3MTQ3NzYzNiwiZXhwIjoyMDg3MDUzNjM2fQ.eBwjjhy2O4xhKnMfYSgD3g3DowY8sQmjCa57FXJasJk",
+    "RESEND_API_KEY": "re_XuB4kFkC_q18Wkb7sECscBh6U1ommgrjG",
+    "REPORT_EMAIL": "reports@example.com",
+    "SLACK_WEBHOOK_URL": "",
+    "DEMO_PASSWORD": "demo2026"
+  }
+}
